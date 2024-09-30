@@ -1,6 +1,6 @@
 ## Tentativas de Conexão de Carteiras
 
-Este documento descreve duas tentativas de conexão de carteiras para realizar transações em redes diferentes: uma utilizando a MetaMask e outra utilizando a Keplr. Na pasta imagens, há as capturas de telas mostrando que houve as tentativas.
+O repositório descreve duas tentativas de criação de NFTS, realizando transações em redes diferentes: uma utilizando a MetaMask com Polygon e outra utilizando a Keplr com IrisNet. Na pasta imagens, há as capturas de telas mostrando que houve as tentativas.
 
 ### Tentativa 1: MetaMask
 
